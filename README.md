@@ -1,3 +1,4 @@
+HEAD
 # 🗳️ Decentralized E-Voting System using Blockchain & Cryptography
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
@@ -103,3 +104,6 @@ This project solves these fundamental flaws by implementing:
 - **Self-Healing Ledger**: Dual-ledger consensus mechanism (`VoteBackup`) simulates distributed node recovery when tampering is detected.
 
 ---
+=======
+# capstone-project
+ed2c9c6283ed1f0fef201c19ad46bb95768efa94
